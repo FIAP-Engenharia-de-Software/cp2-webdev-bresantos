@@ -10,7 +10,17 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
-  // TODO: implementar função
+
+  if(num1 || num2 === NaN){
+    return("Erro: parâmetros inválidos")
+  }else if(num1 / 0 || b / 0){
+    return("Erro: divisão por zero")
+  }else if(num1 || num2 === null){
+    return("Erro: operação inválida")
+  }else{
+    return("deu certo")
+  }
+
 }
 
 

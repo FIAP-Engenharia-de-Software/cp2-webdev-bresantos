@@ -1,4 +1,4 @@
-
+<!-- 
 # Instruções
 
 Aqui você encontrará as instruções para desenvolvimento da CP2 de WebDev.
@@ -14,7 +14,7 @@ Aqui você encontrará as instruções para desenvolvimento da CP2 de WebDev.
 git clone <link-do-seu-repositorio>
 ```
 
-Substitua `<link-do-seu-repositorio>` pelo link copiado.
+Substitua `<link-do-seu-repositorio>` pelo link copiado. -->
 
 ---
 ## Passo 2: Escrever o código dos exercícios
