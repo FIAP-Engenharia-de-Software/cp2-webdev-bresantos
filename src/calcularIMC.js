@@ -20,7 +20,7 @@ function calcularIMC(peso, altura) {
   }else if(peso > 25 < 29.9){
     return("Sobrepeso")
   }else if(peso > 30){
-    return("Obesidade")
+    return("Obesidade")   
   }else{
     return("Erro")
   }
